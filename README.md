@@ -6,6 +6,11 @@ Projeto com o objetivo utilizar as inteligências artificiais para criação de 
 
 ### Artigo e E-book Gamma AI
 
+<a href="https://web.dio.me/articles/parceiro-inteligente-para-criar-conteudo?back=%2Farticles&open-modal=true&page=1&order=oldest"> 📕Clique aqui para ler o artigo</a>
+
+<a href=""> 📕Clique aqui para ler o e-book</a>
+
+
 ```markdown
 # Aumente sua Produtividade e Eficiência: Gamma AI Parceiro Inteligente para Criar Conteúdo ;)
 
