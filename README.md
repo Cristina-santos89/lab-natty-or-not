@@ -1,51 +1,52 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+Repositório para fazer a contribuição no projeto Natural ou Fake Natty? Como Vencer na Era das IAs Generativas.
 
-> Woooow! Look at this 👀
+Projeto com o objetivo utilizar as inteligências artificiais para criação de conteúdos.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
+### Artigo e E-book Gamma AI
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aumente sua Produtividade e Eficiência: Gamma AI Parceiro Inteligente para Criar Conteúdo ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto Artigo e Ebook: Sobre a utilização da ferramenta Gamma AI.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [Gemini](https://gemini.google.com) - para título e conteúdo do artigo
+- [Leonardo.ai](https://leonardo.ai) - para gerar imagens
+- [Lexica.art](https://lexica.art/) - para gerar imagens
+- [Gamma.app](https://gamma.app) - Para conteúdo do e-book e imagens
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Artigo:
+
+Definição do assunto;
+Prompt de Headline no Gemini para criação do título;
+Definição dos blocos e assuntos abordados;
+Prompt com regras no Gemini para criação do conteúdo do artigo;
+Prompt no Leonardo.ai para gerar a imagem de capa;
+Formatação e layout da capa no Power power;
+Revisão humana.
+
+E-book:
+
+Definição do assunto;
+Prompt com regras no gamma.app para criação do conteúdo do E-book;
+Prompt no Leonardo.ai e Lexica.art para substituir imagens;
+Revisão humana.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Após refinamento dos prompts e regras definidas foi possível realizar ambos conteúdos de forma rápida. Note-se um ganho de tempo para próximos trabalhos semelhantes.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Principais desafios:
+Refinamento de prompts para correção de contéudo (Gemini) e layout (gamma.app);
+O gamma.app gera materiais repetivos após a inclusão do prompt: Necessário refinamento do layout utilizando recursos da ferramenta, mas houve ganho de tempo na construção do layout;
+Edição do E-book utilizando o Power Point: Embora o layout esteja pronto é necessário fazer alterações e inclusões para criar identidade visual do material;
+Importância da validação humana: Após o direcionamento dos prompts foi necessário inclusão de novas regras para refinamento dos materiais.
+
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
