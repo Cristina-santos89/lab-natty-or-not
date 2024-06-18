@@ -8,7 +8,7 @@ Projeto com o objetivo utilizar as inteligências artificiais para criação de 
 
 <a href="https://web.dio.me/articles/parceiro-inteligente-para-criar-conteudo?back=%2Farticles&open-modal=true&page=1&order=oldest"> 📕Clique aqui para ler o artigo</a>
 
-<a href=""> 📕Clique aqui para ler o e-book</a>
+<a href="https://github.com/Cristina-santos89/lab-natty-or-not/blob/main/Ebook_Gamma_AI.pdf"> 📕Clique aqui para ler o e-book</a>
 
 
 ```markdown
